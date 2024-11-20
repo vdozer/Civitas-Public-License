@@ -1,4 +1,4 @@
-<img src="cpl.png" alt="logo" width="150px" height="150px"/>
+<img src="cpl.png" alt="logo" width="200px" height="200px"/>
 
 # Civitas Public License (CPL)
 The CPL made for people that want to release their software in the public domain but don't want it turning into a commercial product.
